@@ -1,6 +1,15 @@
 # Library-managment
 This is the project of Library managment system 1.0
-This project has 5 functions
+
+requirements:
+
+*) MYSQL  community server
+*)MYSQL JDBC connectors
+*)java
+*)eclipse ide
+*)rs2xml.jar file - download link - 
+https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download
+This project has 5 methods
 login()
 connect()
 create()
